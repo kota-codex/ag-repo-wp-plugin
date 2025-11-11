@@ -4,8 +4,8 @@ Tags: argentum, package manager, repository
 Requires at least: 5.0
 Tested up to: 6.6
 Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: Apache-2.0 license
+License URI: https://www.apache.org/licenses/LICENSE-2.0.txt
 
 == Description ==
 
@@ -58,3 +58,4 @@ There are UI and REST API to create and update modules and list of authors.
 
 = 1.0.0 =
 * Initial release: Added shortcode, user management UI, module management UI, REST API to get and update modules.
+
